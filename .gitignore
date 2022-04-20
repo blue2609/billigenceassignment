@@ -1,0 +1,5 @@
+# test directories
+python_test/
+
+# python notebook
+.ipynb_checkpoints/
